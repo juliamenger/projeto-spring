@@ -1,7 +1,7 @@
-package com.projeto.recado.controller;
+package com.projeto.atividades.recado.controller;
 
-import com.projeto.recado.model.Recado;
-import com.projeto.recado.service.RecadoService;
+import com.projeto.atividades.recado.model.Recado;
+import com.projeto.atividades.recado.service.RecadoService;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

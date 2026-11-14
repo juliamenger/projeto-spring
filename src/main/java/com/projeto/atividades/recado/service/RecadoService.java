@@ -1,7 +1,7 @@
-package com.projeto.recado.service;
+package com.projeto.atividades.recado.service;
 
-import com.projeto.recado.model.Recado;
-import com.projeto.recado.repository.RecadoRepository;
+import com.projeto.atividades.recado.model.Recado;
+import com.projeto.atividades.recado.repository.RecadoRepository;
 import org.springframework.stereotype.Service;
 
 import java.util.List;

@@ -1,4 +1,4 @@
-package com.projeto.recado.model;
+package com.projeto.atividades.recado.model;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
